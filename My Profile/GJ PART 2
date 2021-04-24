@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>GAURANG JHANWAR</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="logo"> <a class="navbar-brand" href="index.html">G A U R A N G </a></div>
+				<a href="#menu"><span>Menu</span></a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+				 <li><a href="about me.html">About Me</a></li>
+          		 <li><a href="resume.html" class="smoothscroll">Resume</a></li>
+          		 <li><a href="gallery.html" class="smoothscroll">Gallery</a></li>
+
+				</ul>
+			</nav>
+
+		<!-- Content -->
+		
+			<section id="post" class="wrapper bg-img" data-bg="banner2.jpg">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>ABOUT ME</h2>
+						</header>
+						<div class="content">
+							<p>My name is Anushka Gupta and I am an 18 years old Indian studying Business Administration at ESSEC Asia Pacific in Singapore . I was born and grew up in Bangalore but have lived in Singapore for four years! I stay with my parents and am an only child. I absolutely love animals, dogs in particular. I studied in GIIS, an Indian Interntional school  in Singapore before pursuing a GBBA in ESSEC Business School. I chose this university amongst others because I loved the unique multicultural experience ESSEC offers. I'm keen to work in marketing in the fashion industry and hav been working towards this goal the past few years. </p>
+							
+							<p>I really enjoy travelling to new places and learning about different cultures and trying new cuisines! My days are incomplete without music and meeting my friends and most importantly - Netflix. I love watching new shows and social experiments. Additionally, if I'm able to find the time, I'm an avid reader and read mystery and romance novels. </p>
+							
+							
+							<p>To know more about me, you can visit my social networks pages or feel free to contact me!</p>
+					
+
+						</div>
+					
+					</article>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+
+					<h2>Contact Me</h2>
+
+					<form action="mailto:anushka.gupta@essec.edu" method="post" enctype="text/plain">
+							
+						<div class="field half first">
+							<label for="name">Name</label>
+							<input name="name" id="name" type="text" placeholder="Name">
+						</div>
+						<div class="field half">
+							<label for="email">Email</label>
+							<input name="email" id="email" type="email" placeholder="Email">
+						</div>
+						<div class="field">
+							<label for="message">Message</label>
+							<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+						</div>
+						<ul class="actions">
+							<li><input value="Send Message" class="button alt" type="submit"></li>
+						</ul>
+					</form>
+
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/ganushka/" target="_blank" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<li><a href="https://www.facebook.com/anushkagupta13" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/anushkagupta13/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
+
+					<div class="copyright">
+						&copy; Anushka Gupta 2020
+					</div>
+
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
